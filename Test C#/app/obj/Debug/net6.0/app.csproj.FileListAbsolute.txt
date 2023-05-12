@@ -1,0 +1,30 @@
+D:\test\app\bin\Debug\net6.0\app.exe
+D:\test\app\bin\Debug\net6.0\app.deps.json
+D:\test\app\bin\Debug\net6.0\app.runtimeconfig.json
+D:\test\app\bin\Debug\net6.0\app.dll
+D:\test\app\bin\Debug\net6.0\app.pdb
+D:\test\app\obj\Debug\net6.0\app.csproj.AssemblyReference.cache
+D:\test\app\obj\Debug\net6.0\app.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\app\obj\Debug\net6.0\app.AssemblyInfoInputs.cache
+D:\test\app\obj\Debug\net6.0\app.AssemblyInfo.cs
+D:\test\app\obj\Debug\net6.0\app.csproj.CoreCompileInputs.cache
+D:\test\app\obj\Debug\net6.0\app.dll
+D:\test\app\obj\Debug\net6.0\refint\app.dll
+D:\test\app\obj\Debug\net6.0\app.pdb
+D:\test\app\obj\Debug\net6.0\app.genruntimeconfig.cache
+D:\test\app\obj\Debug\net6.0\ref\app.dll
+D:\Test C#\app\bin\Debug\net6.0\app.exe
+D:\Test C#\app\bin\Debug\net6.0\app.deps.json
+D:\Test C#\app\bin\Debug\net6.0\app.runtimeconfig.json
+D:\Test C#\app\bin\Debug\net6.0\app.dll
+D:\Test C#\app\bin\Debug\net6.0\app.pdb
+D:\Test C#\app\obj\Debug\net6.0\app.csproj.AssemblyReference.cache
+D:\Test C#\app\obj\Debug\net6.0\app.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test C#\app\obj\Debug\net6.0\app.AssemblyInfoInputs.cache
+D:\Test C#\app\obj\Debug\net6.0\app.AssemblyInfo.cs
+D:\Test C#\app\obj\Debug\net6.0\app.csproj.CoreCompileInputs.cache
+D:\Test C#\app\obj\Debug\net6.0\app.dll
+D:\Test C#\app\obj\Debug\net6.0\refint\app.dll
+D:\Test C#\app\obj\Debug\net6.0\app.pdb
+D:\Test C#\app\obj\Debug\net6.0\app.genruntimeconfig.cache
+D:\Test C#\app\obj\Debug\net6.0\ref\app.dll
